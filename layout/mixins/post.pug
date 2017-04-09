@@ -37,11 +37,11 @@ mixin postList()
         - })
 
 //- Post Page
-mixin post(item)
+mixin post(page)
     .post
         article.post-block
             h1.post-title
-                != item.title
-            +postInfo(item)
+                != page.title
+            +postInfo(page)
             .post-content
-                != item.content
+                != page.content

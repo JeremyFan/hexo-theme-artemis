@@ -1,16 +1,15 @@
 doctype
 html(lang=config.language)
     head
-        include head
+        include head.pug
     body
         .wrap
             header
                 a.logo-link(href=url_for())
                     img(src=url_for(theme.logo) alt="logo")
-                include nav
+                include nav.pug
             main.container
                 block container
             footer
                 block pagination
                 block copyright
-        include scripts

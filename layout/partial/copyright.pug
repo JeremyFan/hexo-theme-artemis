@@ -1,7 +1,9 @@
 .copyright
-    - var hexoURL = "https://hexo.io/";
-    - var apolloURL = "https://github.com/jeremyfan/hexo-theme-artemis";
-    - var currentDate = new Date();
-    - var year = currentDate.getFullYear();
-    - year = year == theme.startyear ? year : theme.startyear + ' - ' + year;
-    p © #{year} #[a(href=config.url)!= config.author], powered by #[a(href=hexoURL, target="_blank") Hexo] and #[a(href=apolloURL, target="_blank") hexo-theme-artemis].
+	- var authorURL = "https://github.com/jeremyfan";
+	- var hexoURL = "https://hexo.io/";
+	- var artemisURL = "https://github.com/jeremyfan/hexo-theme-artemis";
+	- var currentDate = new Date();
+	- var year = currentDate.getFullYear();
+	- year = year == theme.startyear ? year : theme.startyear + ' - ' + year;
+
+	p © #{year} (●ﾟωﾟ●) #[a(href=authorURL, target="_blank")!=config.author], powered by #[a(href=hexoURL, target="_blank") Hexo] and #[a(href=artemisURL, target="_blank") hexo-theme-artemis].

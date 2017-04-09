@@ -1,0 +1,25 @@
+{
+  "name": "hexo-theme-artemis",
+  "version": "0.0.1",
+  "description": "A hexo theme inspired by pinggod/hexo-theme-apollo",
+  "keywords": [
+    "hexo",
+    "theme",
+    "artemis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyFan/hexo-theme-artemis.git"
+  },
+  "author": "Jeremy Fan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremyFan/hexo-theme-artemis/issues"
+  },
+  "homepage": "https://github.com/JeremyFan/hexo-theme-artemis#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-stylus": "^2.6.0"
+  }
+}

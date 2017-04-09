@@ -1,0 +1,12 @@
+menu:
+    Home: /
+    Blog: /blog
+    Archive: /archives/
+    About: /about
+    Rss: /atom.xml
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Copyright Infomation
+startyear: 2017

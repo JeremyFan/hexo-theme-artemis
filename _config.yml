@@ -1,8 +1,9 @@
 menu:
     Home: /
-    Blog: /blog
+    Blog: /blog/
     Archive: /archives/
-    About: /about
+    Photo: /photo/
+    About: /about/
     Rss: /atom.xml
 
 favicon: /favicon.png

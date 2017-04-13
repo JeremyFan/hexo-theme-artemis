@@ -2,12 +2,15 @@ menu:
     Home: /
     Blog: /blog/
     Archive: /archives/
-    Photo: /photo/
+    Gallery: /gallery/
     About: /about/
-    Rss: /atom.xml
+    # Rss: /atom.xml
 
-favicon: /favicon.png
-logo: /favicon.png
+title: 14 号院
+description: Jeremy Fan's Blog，14 号院
+
+favicon: /favicon.ico
+logo: /logo.png
 
 # Copyright Infomation
 startyear: 2017

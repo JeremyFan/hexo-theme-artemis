@@ -1,9 +1,7 @@
 menu:
     Home: /
-    Blog: /blog/
     Archive: /archives/
-    Gallery: /gallery/
-    About: /about/
+    Contact: "http://jeremyfan.name"
     # Rss: /atom.xml
 
 title: 14 号院
